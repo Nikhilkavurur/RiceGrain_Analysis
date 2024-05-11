@@ -4,4 +4,4 @@ We analyse the quality of rice by calculating the average length/breadth ratio f
 Running Locally
 - clone this repo
 - install the necessary libraries
-- run `python code.py`
+- run `RICE_QUALITY.py`
